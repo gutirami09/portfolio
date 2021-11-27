@@ -1,0 +1,22 @@
+* {
+   background-color: rgb(3, 7, 7);
+   color:white;
+   list-style-type: none;
+
+}
+
+header {
+    display: flex;
+}
+
+header nav {
+    float: right;
+
+    
+    }
+
+img {
+    max-width: 15%;
+    height:auto;
+    border-radius: 25%;
+}
